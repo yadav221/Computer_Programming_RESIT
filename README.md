@@ -8,7 +8,7 @@
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 
 ```
 resit/
@@ -17,9 +17,9 @@ resit/
 
 ---
 
-## ✅ Task Overview
+##  Task Overview
 
-### 🔹 Task 1: Markdown Introduction
+###  Task 1: Markdown Introduction
 
 Created a Markdown cell with:
 
@@ -41,7 +41,7 @@ Included:
 
 ---
 
-### 🔹 Task 3: Football Teams Program
+###  Task 3: Football Teams Program
 
 Python program that:
 
@@ -51,7 +51,7 @@ Python program that:
 
 ---
 
-### 🔹 Task 4: Five Letter Word Function
+###  Task 4: Five Letter Word Function
 
 Created a function that:
 
@@ -61,7 +61,7 @@ Created a function that:
 
 ---
 
-### 🔹 Task 5: String Input Program
+###  Task 5: String Input Program
 
 Program that:
 
@@ -74,7 +74,7 @@ Program that:
 
 ---
 
-## 💾 Commit Messages
+##  Commit Messages
 
 The following commits were used:
 
