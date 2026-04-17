@@ -4,8 +4,7 @@
 ## Student Information
 
 **Name:** Mithlesh Yadav
-**Course:** Computer Programming
-**Student ID / Email:** [your_email@example.com](mailto:your_email@example.com)
+**Module :** Computer Programming
 
 ---
 
